@@ -6,6 +6,8 @@
 
 ## 简介
 
+已发布于[dirtyDan0/web-programming-final (github.com)](https://github.com/dirtyDan0/web-programming-final)
+
 本项目实现了以下内容：
 
 * 爬取了**网易新闻、新浪新闻、东方财富、财经网**四家新闻网站的新闻**855**条（截止写文档时）
